@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1602581632 source:d:\files\c++\lab3pas\main.cpp
+	<iostream>
+	<ctime>
+
